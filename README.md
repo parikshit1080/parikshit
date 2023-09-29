@@ -1,6 +1,5 @@
 - 👋 Hi, I’m parikshit
 - 👀 I’m interested in technology and coding
 - 🌱 I’m currently learning JAVA
-- <br>
 - 💞️ I’m looking to collaborate on JAVA and DSA
 - 📫 for any querry my contact me parikshitkandel6034@gmail.com
