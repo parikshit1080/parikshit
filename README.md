@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **AI Chat Bot**
 
-- 🌱 I’m currently learning **Java Python**
+- 🌱 I’m currently learning **Java **
+
+- working on a personal project
 
 - 📫 How to reach me **parikshitkandel6034@gmail.com**
 
