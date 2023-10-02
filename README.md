@@ -4,9 +4,7 @@
 - 🔭 I’m currently working on **AI Chat Bot**
 
 - 🌱 I’m currently learning **Java **
-
-- working on a personal project
-
+- 
 - 📫 How to reach me **parikshitkandel6034@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
