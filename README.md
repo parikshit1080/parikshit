@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Parikshit Kandel</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🔭 I’m currently working on **AI Chat Bot**
+- 🔭 I’m currently working on *Business Development*
 
-- 🌱 I’m currently learning **Java **
+- 🌱 I’m currently learning **Business Analyst **
   
 - 📫 How to reach me **parikshitkandel6034@gmail.com**
 
