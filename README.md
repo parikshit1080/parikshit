@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on *Business Development*
 
-- 🌱 I’m currently learning **Business Analyst **
-
-- Working on **App Development**
+- 🌱 I’m currently learning **App Development **
   
 - 📫 How to reach me **parikshitkandel6034@gmail.com**
 
