@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Business Analyst **
 
-- Working on App Development **
+- Working on **App Development**
   
 - 📫 How to reach me **parikshitkandel6034@gmail.com**
 
